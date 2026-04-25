@@ -1,11 +1,10 @@
 # Minimalist Fume Extractor
-<img width="850" height="708" alt="image" src="https://github.com/user-attachments/assets/06f1b788-9b2e-4e87-bc50-6d5992392545" />
+<img width="870" height="808" alt="image" src="https://github.com/user-attachments/assets/f617dc1b-aadd-4eaf-b29f-034f1e65a6af" />
 
-This projects aims to create a sleek and minimalist fume extractor. By that i mean a fume extractor that is one solid shape without an extra base or any elements sticking out. It includes an activated carbon filter and a HEPA filter to ensure clean air in my room :)
+This projects aims to create a sleek and minimalist fume extractor. By that i mean a fume extractor that is one solid shape without an extra base. It includes an activated carbon filter and a HEPA filter to ensure clean air in my room and allows for adjustable fan speeds through a rotary encoder :)
 
 ## Schematics
-<img width="1424" height="834" alt="image" src="https://github.com/user-attachments/assets/e11140ee-4b11-4f01-bcae-ffc53466f03e" />
-
+<img width="657" height="530" alt="image" src="https://github.com/user-attachments/assets/53b7d95d-e92d-4cc9-8b90-f10ff85ed3fe" />
 
 ## BOM
 - HEPA Filter (already in my possesion) and activated carbon filter [(aliexpress)](https://de.aliexpress.com/item/1005003090089952.html?spm=a2g0o.productlist.main.6.78fb71e9QhEMqz&aem_p4p_detail=20260314133851534265497329040001273762&algo_pvid=95592c36-bbc9-4645-9475-eca559256521&algo_exp_id=95592c36-bbc9-4645-9475-eca559256521-3&pdp_ext_f={%22order%22%3A%221883%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22}&pdp_npi=6%40dis!EUR!4.51!0.99!!!5.07!1.11!%40210390c217735207309384818e67d1!12000024020486506!sea!DE!0!ABX!1!0!n_tag%3A-29910%3Bd%3Ae0188e57%3Bm03_new_user%3A-29895%3BpisId%3A5000000197700194&curPageLogUid=Dpdj9vmTW7hY&utparam-url=scene%3Asearch|query_from%3A|x_object_id%3A1005003090089952|_p_origin_prod%3A&search_p4p_id=20260314133851534265497329040001273762_1)
