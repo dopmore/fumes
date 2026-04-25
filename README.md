@@ -1,4 +1,7 @@
 # Minimalist Fume Extractor
+<img width="1752" height="2480" alt="Fumes(1)" src="https://github.com/user-attachments/assets/d7eac21d-1039-4994-ae09-35c9cf44cbc7" />
+
+
 <img width="870" height="808" alt="image" src="https://github.com/user-attachments/assets/f617dc1b-aadd-4eaf-b29f-034f1e65a6af" />
 
 This projects aims to create a sleek and minimalist fume extractor. By that i mean a fume extractor that is one solid shape without an extra base. It includes an activated carbon filter and a HEPA filter to ensure clean air in my room and allows for adjustable fan speeds through a rotary encoder :)
