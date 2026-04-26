@@ -7,7 +7,7 @@
 This projects aims to create a sleek and minimalist fume extractor. By that i mean a fume extractor that is one solid shape without an extra base. It includes an activated carbon filter and a HEPA filter to ensure clean air in my room and allows for adjustable fan speeds through a rotary encoder (Current Speed is shown on the display). I made this because i was always breathing in harmful fumes when soldering :)
 
 ## Schematics
-<img width="657" height="530" alt="image" src="https://github.com/user-attachments/assets/53b7d95d-e92d-4cc9-8b90-f10ff85ed3fe" />
+<img width="881" height="693" alt="image" src="https://github.com/user-attachments/assets/179cc5c2-5947-4a91-9114-0f46d4850b8f" />
 
 ## BOM
 
@@ -21,7 +21,7 @@ This projects aims to create a sleek and minimalist fume extractor. By that i me
 | Rotary Encoder                           | https://www.aliexpress.com/item/1005006105510076.html | 1.88 USD         |
 | Wire                                     | https://www.aliexpress.com/item/1005006350734418.html | 8.64 USD         |
 | Noctua NF-A14 industrialPPC-2000, 140mm  | https://amzn.eu/d/040H5hEH                            | 35.17 USD        |
-| M2*6mm,  M2.5*6mm, M5*30mm               | https://www.aliexpress.com/item/32968616563.html      | 4.35 USD         |
+| M2\*6mm,  M2.5\*6mm, M5*30mm               | https://www.aliexpress.com/item/32968616563.html      | 4.35 USD         |
 
   
 Total ~65 USD (Aliexpress prices are unpredictable ;) )
