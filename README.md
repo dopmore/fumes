@@ -21,6 +21,7 @@ This projects aims to create a sleek and minimalist fume extractor. By that i me
 | Rotary Encoder                           | https://www.aliexpress.com/item/1005006105510076.html | 1.88 USD         |
 | Wire                                     | https://www.aliexpress.com/item/1005006350734418.html | 8.64 USD         |
 | Noctua NF-A14 industrialPPC-2000, 140mm  | https://amzn.eu/d/040H5hEH                            | 35.17 USD        |
+| M2*6mm,  M2.5*6mm, M5*30mm               | https://www.aliexpress.com/item/32968616563.html      | 4.35 USD         |
 
   
 Total ~61.41 (Aliexpress prices are unpredictable ;) )
