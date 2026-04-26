@@ -24,5 +24,5 @@ This projects aims to create a sleek and minimalist fume extractor. By that i me
 | M2*6mm,  M2.5*6mm, M5*30mm               | https://www.aliexpress.com/item/32968616563.html      | 4.35 USD         |
 
   
-Total ~61.41 (Aliexpress prices are unpredictable ;) )
+Total ~65 USD (Aliexpress prices are unpredictable ;) )
 
