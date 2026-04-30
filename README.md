@@ -4,7 +4,10 @@
 
 <img width="870" height="808" alt="image" src="https://github.com/user-attachments/assets/f617dc1b-aadd-4eaf-b29f-034f1e65a6af" />
 
+
 This projects aims to create a sleek and minimalist fume extractor. By that i mean a fume extractor that is one solid shape without an extra base. It includes an activated carbon filter and a HEPA filter to ensure clean air in my room and allows for adjustable fan speeds through a rotary encoder (Current Speed is shown on the display). I made this because i was always breathing in harmful fumes when soldering :)
+
+The Hepa and activated carbon filter are placed infront of the fan in the case.
 
 ## Schematics
 <img width="881" height="693" alt="image" src="https://github.com/user-attachments/assets/179cc5c2-5947-4a91-9114-0f46d4850b8f" />
