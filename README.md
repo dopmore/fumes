@@ -25,6 +25,7 @@ The Hepa and activated carbon filter are placed infront of the fan in the case.
 | Wire                                     | https://www.aliexpress.com/item/1005006350734418.html | 8.64 USD         |
 | Noctua NF-A14 industrialPPC-2000, 140mm  | https://amzn.eu/d/040H5hEH                            | 35.17 USD        |
 | M2\*6mm,  M2.5\*6mm, M5*30mm               | https://www.aliexpress.com/item/32968616563.html      | 4.35 USD         |
+| USB-C power delivery board | https://www.aliexpress.com/item/1005010650021446.html | 6.89 USD (On sale for me 1.25 USD) |
 
   
 Total ~65 USD (Aliexpress prices are unpredictable ;) )
